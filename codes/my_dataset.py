@@ -7,7 +7,6 @@ from sklearn.model_selection import train_test_split
 from torch.utils.data import Dataset
 import csv
 import os
-import cv2
 import numpy as np
 import pandas as pd
 import torch
